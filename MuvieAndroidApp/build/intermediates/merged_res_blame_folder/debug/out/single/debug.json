@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_error_image.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/error_image.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_black_background.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/black_background.png"
+    }
+]

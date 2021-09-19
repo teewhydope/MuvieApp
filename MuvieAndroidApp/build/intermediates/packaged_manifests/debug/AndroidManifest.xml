@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.teewhydope.muvieapp.android"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- To store the heap dumps and leak analysis results. -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- To allow starting foreground services on Android P+ - https://developer.android.com/preview/behavior-changes#fg-svc -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name="com.teewhydope.muvieapp.android.BaseApplication"
+        android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.teewhydope.muvieapp.android.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MuvieApp" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="androidx.compose.ui.tooling.PreviewActivity"
+            android:exported="true" />
+
+        <service
+            android:name="leakcanary.internal.HeapAnalyzerService"
+            android:exported="false" />
+
+        <provider
+            android:name="leakcanary.internal.LeakCanaryFileProvider"
+            android:authorities="com.squareup.leakcanary.fileprovider.com.teewhydope.muvieapp.android"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/leak_canary_file_paths" />
+        </provider>
+
+        <activity
+            android:name="leakcanary.internal.activity.LeakActivity"
+            android:icon="@mipmap/leak_canary_icon"
+            android:label="@string/leak_canary_display_activity_label"
+            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
+            android:theme="@style/leak_canary_LeakCanary.Base" />
+
+        <activity-alias
+            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+            android:banner="@drawable/leak_canary_tv_icon"
+            android:enabled="@bool/leak_canary_add_launcher_icon"
+            android:exported="true"
+            android:icon="@mipmap/leak_canary_icon"
+            android:label="@string/leak_canary_display_activity_label"
+            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
+            android:theme="@style/leak_canary_LeakCanary.Base" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <!-- Android TV launcher intent -->
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+
+        <activity
+            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+            android:excludeFromRecents="true"
+            android:icon="@mipmap/leak_canary_icon"
+            android:label="@string/leak_canary_storage_permission_activity_label"
+            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
+            android:theme="@style/leak_canary_Theme.Transparent" />
+
+        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+
+        <provider
+            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
+            android:authorities="com.teewhydope.muvieapp.android.leakcanary-installer"
+            android:enabled="@bool/leak_canary_watcher_auto_install"
+            android:exported="false" />
+        <provider
+            android:name="leakcanary.internal.PlumberInstaller"
+            android:authorities="com.teewhydope.muvieapp.android.plumber-installer"
+            android:enabled="@bool/leak_canary_plumber_auto_install"
+            android:exported="false" />
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.teewhydope.muvieapp.android.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

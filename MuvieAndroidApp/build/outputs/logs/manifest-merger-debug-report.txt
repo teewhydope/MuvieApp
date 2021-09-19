@@ -1,0 +1,570 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [:shared] /Users/teewhydope/AndroidStudioProjects/MuvieApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.accompanist:accompanist-navigation-animation:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/4faa3688caf1620ef0b179e66a607848/transformed/accompanist-navigation-animation-0.18.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-pager:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8e58801f4ec04317caf4161c242ef22c/transformed/accompanist-pager-0.18.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-placeholder:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8c42f6c193f32530a78a793edaf2bb61/transformed/accompanist-placeholder-0.18.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/e60c2a667c58cdd8f42067b0e7886337/transformed/accompanist-systemuicontroller-0.18.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /Users/teewhydope/.gradle/caches/transforms-3/ce165b13289ed8f91ce4ce8bfe6e8263/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.skydoves:landscapist-coil:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/b2e79c42e400fcf8df0ab76a3e777087/transformed/landscapist-coil-1.3.6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.skydoves:landscapist:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/a7c5f06ee0eb0f990c365f9546b9c681/transformed/landscapist-1.3.6/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.runtime:runtime-livedata:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/37ebb7194a962b98500c6bc95587081a/transformed/runtime-livedata-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a20f57fee3931e84febff72840f183ae/transformed/material-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/6e14ad64fa771ed44e54f435f0bb3f81/transformed/material-ripple-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/0fd14c0d5fff9cedf4479d7f9b70668a/transformed/foundation-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/0ba418dda54a2ad2b6722285e0f3ee14/transformed/hilt-navigation-compose-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/5d3c9569b5997d5717d2208341ff2d3f/transformed/navigation-compose-2.4.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/14bf60159d64830884f102030b9b457e/transformed/activity-compose-1.4.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/b2dc2b838595967076fc0694b81226d9/transformed/coil-compose-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a8060b6a608f4e2e3c48282cf0b4903b/transformed/material-icons-core-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/52c6eb435a8a203aed628da21f2dcd46/transformed/animation-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/2bf33f8ad11e9c591b1f7bf53ed3cd49/transformed/foundation-layout-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/fdd6f9c9c897283b393ee5f68b5faa98/transformed/ui-tooling-data-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/787aa61f9ab0acd77be0d7432e9bf5dd/transformed/lifecycle-viewmodel-compose-1.0.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/78b00faefa81d851eb69607fa0c3fc04/transformed/coil-compose-base-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.animation:animation-core:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/c0fa86977fa061581b9a7eae3d4a0e7c/transformed/animation-core-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d66e17d81974e3fe434fcdf73e85be4f/transformed/ui-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d38966f0ad71fd71a86403bd26899efa/transformed/ui-text-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d528c1c18aa957e80af3fef39c125381/transformed/runtime-saveable-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/4b00be564934ee0ac95ec30a8f905669/transformed/ui-graphics-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/0f6c5375545424be40db72c1aabb4f33/transformed/ui-unit-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a0a539314015a66c0bead3c907449834/transformed/ui-geometry-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/cd1090f155335290c241606fdb6602cd/transformed/ui-tooling-preview-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/3a950a483b552dd68167c6703aa1ee49/transformed/runtime-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9d55c5adca4397c34237502a3f27a3f1/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/831d93021d8d69bcb4ae4807fd841972/transformed/navigation-runtime-ktx-2.4.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/4f8e120e3f11f998fc22f35e3533aade/transformed/navigation-runtime-2.4.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/b15a703a22a3853bec7c797d68768ff6/transformed/activity-ktx-1.4.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/ca4395b2f588bc4831b8a189bc9db94f/transformed/navigation-common-ktx-2.4.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/e73478def0f9657b84db57ce2983e3cb/transformed/navigation-common-2.4.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/42c800d7fe0b3a4c1eeed8230cc37058/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/c1d15e84fb9f82f789256e74fb87d3d3/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/fef717c2ddbb9646abbebf968574f5db/transformed/coil-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-gif:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/0cbfc10f12ce85e179b921497b3c1994/transformed/coil-gif-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/62cf3c98230b0a87815b6bf73f29fc1e/transformed/coil-base-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.material:material:1.5.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/3158cbb7a23b70001a299caec2e3b434/transformed/material-1.5.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/teewhydope/.gradle/caches/transforms-3/63ab57fcf3606d2f47243894081d2c7c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/b6818e36e82785a361357d608a3a78fe/transformed/appcompat-1.4.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/09cd930d1d2234642ab870cdf615b9b2/transformed/ui-util-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/979902e04b8a2acef19fa509e1d5a178/transformed/hilt-android-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:17:1-76:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/teewhydope/.gradle/caches/transforms-3/fe8779562bcf06815076d2a6f5fe2cc7/transformed/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.7] /Users/teewhydope/.gradle/caches/transforms-3/58b735754ac6224259b3b3fbb68ed8c8/transformed/leakcanary-object-watcher-android-androidx-2.7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.7] /Users/teewhydope/.gradle/caches/transforms-3/2857c48a3e120394d47c4da82b869fa4/transformed/leakcanary-object-watcher-android-support-fragments-2.7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:2:1-15:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/teewhydope/.gradle/caches/transforms-3/9667b58996846e8d02c226730945ed82/transformed/napier-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8e8998e7b4c537eb8ba283277c31f865/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/teewhydope/.gradle/caches/transforms-3/dc6232984e47a3f4d80effa3ae3fa929/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/0bfe9ed5a3789bba2348c0c43ec33476/transformed/activity-1.4.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8deba9150fbf6744ced62d6bff80553f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette-ktx:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/342875245970ad536a391ace3524cf8c/transformed/palette-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.7] /Users/teewhydope/.gradle/caches/transforms-3/bd6a95ff06c478377e321debfed7ce82/transformed/leakcanary-android-utils-2.7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.curtains:curtains:1.0.1] /Users/teewhydope/.gradle/caches/transforms-3/8dd06219f13ad55dd442a1b48b038667/transformed/curtains-1.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/ab1ba9caf192b5f40843c69e323d5e84/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/fd7ff3acf89be5489828419c53b6ba56/transformed/appcompat-resources-1.4.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9619b71a1bb3bbf5092fe8b2b5b5e52e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/774e2480435382a376b603a4ff05bdf2/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/05573380bdaa09c755c5c07068273e07/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/979536add3f53b755c7b5a73b046d23d/transformed/emoji2-views-helper-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/e5d8651ff39c9e879ae1d3cc7780e1a1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8c4cd301bd9e7c07998c0bcca55eae30/transformed/palette-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1daf219cbb312417410880e29e92d300/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1e1b976f293d360c9923dabf9d828669/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/a6da21234d2aa1cabf75ee05c7119e8c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1a082ab1a82b0f02618f5dfcbbc448ae/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/7333adf71299f58587dd1909040ee6f1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/teewhydope/.gradle/caches/transforms-3/a337a067e4c17c04e8ed6c7a2eeced1c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/a7c3652132ad31232af80ad1a1c655d6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/7b7415ee1dad65f9c59ada6ba1129625/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/ced2683b8265d7e066a1d8067d55be46/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/76d9cf30089674519912678dc9a99367/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/eaee76cf09ff8673cb2944831fccf072/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/89b5b57a7350485ac3dfe118354f20d2/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0-beta01] /Users/teewhydope/.gradle/caches/transforms-3/e50314ade3fe20090cf6e8b7e041599b/transformed/core-1.7.0-beta01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teewhydope/.gradle/caches/transforms-3/3ad50a88f02f4e96da82927d81da1469/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/teewhydope/.gradle/caches/transforms-3/4ff3a9d0c3d1f1c506a1a96a5f8fd8c6/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/0274d49f95cddb05dc3ff47d66fc0d1c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/3c98a44dd1c94f2d1ef95f506f903d1a/transformed/lifecycle-runtime-2.4.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/teewhydope/.gradle/caches/transforms-3/c6dc814d2e3858fa89c4f5032172e5e0/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/2ce122ad6df39a8ddd279627d9023308/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/bf812ddc5a5aa2ad41aacbfc3b2fb7af/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/bbd8538ed9269cdde6740dd0271de2ec/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/61124a719016ca376b16605dab767954/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/7288deeab18ee65a7fd649d43b90f155/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/teewhydope/.gradle/caches/transforms-3/6efbf441ed8b1b1dd1c9f65d321b9187/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8c0f965fc657e954900268ee2938a8c0/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/0cce5c4b05cf332fd5f8e3c6f04b7b22/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:24:5-28:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.5.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/3158cbb7a23b70001a299caec2e3b434/transformed/material-1.5.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/3158cbb7a23b70001a299caec2e3b434/transformed/material-1.5.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/teewhydope/.gradle/caches/transforms-3/63ab57fcf3606d2f47243894081d2c7c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/teewhydope/.gradle/caches/transforms-3/63ab57fcf3606d2f47243894081d2c7c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:28:5-74:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:28:5-74:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:7:5-13:19
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.core:core:1.7.0-beta01] /Users/teewhydope/.gradle/caches/transforms-3/e50314ade3fe20090cf6e8b7e041599b/transformed/core-1.7.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0-beta01] /Users/teewhydope/.gradle/caches/transforms-3/e50314ade3fe20090cf6e8b7e041599b/transformed/core-1.7.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teewhydope/.gradle/caches/transforms-3/3ad50a88f02f4e96da82927d81da1469/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teewhydope/.gradle/caches/transforms-3/3ad50a88f02f4e96da82927d81da1469/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0-beta01] /Users/teewhydope/.gradle/caches/transforms-3/e50314ade3fe20090cf6e8b7e041599b/transformed/core-1.7.0-beta01/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:9:9-40
+activity#com.teewhydope.muvieapp.android.MainActivity
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:15:13-50
+	android:name
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/teewhydope/AndroidStudioProjects/MuvieApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/teewhydope/AndroidStudioProjects/MuvieApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.accompanist:accompanist-navigation-animation:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/4faa3688caf1620ef0b179e66a607848/transformed/accompanist-navigation-animation-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-navigation-animation:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/4faa3688caf1620ef0b179e66a607848/transformed/accompanist-navigation-animation-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8e58801f4ec04317caf4161c242ef22c/transformed/accompanist-pager-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-pager:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8e58801f4ec04317caf4161c242ef22c/transformed/accompanist-pager-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-placeholder:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8c42f6c193f32530a78a793edaf2bb61/transformed/accompanist-placeholder-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-placeholder:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8c42f6c193f32530a78a793edaf2bb61/transformed/accompanist-placeholder-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/e60c2a667c58cdd8f42067b0e7886337/transformed/accompanist-systemuicontroller-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/e60c2a667c58cdd8f42067b0e7886337/transformed/accompanist-systemuicontroller-0.18.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /Users/teewhydope/.gradle/caches/transforms-3/ce165b13289ed8f91ce4ce8bfe6e8263/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /Users/teewhydope/.gradle/caches/transforms-3/ce165b13289ed8f91ce4ce8bfe6e8263/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.skydoves:landscapist-coil:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/b2e79c42e400fcf8df0ab76a3e777087/transformed/landscapist-coil-1.3.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:landscapist-coil:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/b2e79c42e400fcf8df0ab76a3e777087/transformed/landscapist-coil-1.3.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:landscapist:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/a7c5f06ee0eb0f990c365f9546b9c681/transformed/landscapist-1.3.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:landscapist:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/a7c5f06ee0eb0f990c365f9546b9c681/transformed/landscapist-1.3.6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/37ebb7194a962b98500c6bc95587081a/transformed/runtime-livedata-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-livedata:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/37ebb7194a962b98500c6bc95587081a/transformed/runtime-livedata-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a20f57fee3931e84febff72840f183ae/transformed/material-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a20f57fee3931e84febff72840f183ae/transformed/material-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/6e14ad64fa771ed44e54f435f0bb3f81/transformed/material-ripple-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/6e14ad64fa771ed44e54f435f0bb3f81/transformed/material-ripple-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/0fd14c0d5fff9cedf4479d7f9b70668a/transformed/foundation-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/0fd14c0d5fff9cedf4479d7f9b70668a/transformed/foundation-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/0ba418dda54a2ad2b6722285e0f3ee14/transformed/hilt-navigation-compose-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/0ba418dda54a2ad2b6722285e0f3ee14/transformed/hilt-navigation-compose-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/5d3c9569b5997d5717d2208341ff2d3f/transformed/navigation-compose-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/5d3c9569b5997d5717d2208341ff2d3f/transformed/navigation-compose-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/14bf60159d64830884f102030b9b457e/transformed/activity-compose-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/14bf60159d64830884f102030b9b457e/transformed/activity-compose-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/b2dc2b838595967076fc0694b81226d9/transformed/coil-compose-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/b2dc2b838595967076fc0694b81226d9/transformed/coil-compose-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a8060b6a608f4e2e3c48282cf0b4903b/transformed/material-icons-core-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a8060b6a608f4e2e3c48282cf0b4903b/transformed/material-icons-core-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/52c6eb435a8a203aed628da21f2dcd46/transformed/animation-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/52c6eb435a8a203aed628da21f2dcd46/transformed/animation-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/2bf33f8ad11e9c591b1f7bf53ed3cd49/transformed/foundation-layout-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/2bf33f8ad11e9c591b1f7bf53ed3cd49/transformed/foundation-layout-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/fdd6f9c9c897283b393ee5f68b5faa98/transformed/ui-tooling-data-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/fdd6f9c9c897283b393ee5f68b5faa98/transformed/ui-tooling-data-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/787aa61f9ab0acd77be0d7432e9bf5dd/transformed/lifecycle-viewmodel-compose-1.0.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/787aa61f9ab0acd77be0d7432e9bf5dd/transformed/lifecycle-viewmodel-compose-1.0.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/78b00faefa81d851eb69607fa0c3fc04/transformed/coil-compose-base-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/78b00faefa81d851eb69607fa0c3fc04/transformed/coil-compose-base-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.animation:animation-core:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/c0fa86977fa061581b9a7eae3d4a0e7c/transformed/animation-core-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/c0fa86977fa061581b9a7eae3d4a0e7c/transformed/animation-core-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d66e17d81974e3fe434fcdf73e85be4f/transformed/ui-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d66e17d81974e3fe434fcdf73e85be4f/transformed/ui-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d38966f0ad71fd71a86403bd26899efa/transformed/ui-text-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d38966f0ad71fd71a86403bd26899efa/transformed/ui-text-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d528c1c18aa957e80af3fef39c125381/transformed/runtime-saveable-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/d528c1c18aa957e80af3fef39c125381/transformed/runtime-saveable-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/4b00be564934ee0ac95ec30a8f905669/transformed/ui-graphics-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/4b00be564934ee0ac95ec30a8f905669/transformed/ui-graphics-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/0f6c5375545424be40db72c1aabb4f33/transformed/ui-unit-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/0f6c5375545424be40db72c1aabb4f33/transformed/ui-unit-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a0a539314015a66c0bead3c907449834/transformed/ui-geometry-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a0a539314015a66c0bead3c907449834/transformed/ui-geometry-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/cd1090f155335290c241606fdb6602cd/transformed/ui-tooling-preview-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/cd1090f155335290c241606fdb6602cd/transformed/ui-tooling-preview-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/3a950a483b552dd68167c6703aa1ee49/transformed/runtime-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/3a950a483b552dd68167c6703aa1ee49/transformed/runtime-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9d55c5adca4397c34237502a3f27a3f1/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9d55c5adca4397c34237502a3f27a3f1/transformed/hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/831d93021d8d69bcb4ae4807fd841972/transformed/navigation-runtime-ktx-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/831d93021d8d69bcb4ae4807fd841972/transformed/navigation-runtime-ktx-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/4f8e120e3f11f998fc22f35e3533aade/transformed/navigation-runtime-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/4f8e120e3f11f998fc22f35e3533aade/transformed/navigation-runtime-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/b15a703a22a3853bec7c797d68768ff6/transformed/activity-ktx-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/b15a703a22a3853bec7c797d68768ff6/transformed/activity-ktx-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/ca4395b2f588bc4831b8a189bc9db94f/transformed/navigation-common-ktx-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/ca4395b2f588bc4831b8a189bc9db94f/transformed/navigation-common-ktx-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/e73478def0f9657b84db57ce2983e3cb/transformed/navigation-common-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha07] /Users/teewhydope/.gradle/caches/transforms-3/e73478def0f9657b84db57ce2983e3cb/transformed/navigation-common-2.4.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/42c800d7fe0b3a4c1eeed8230cc37058/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/42c800d7fe0b3a4c1eeed8230cc37058/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/c1d15e84fb9f82f789256e74fb87d3d3/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/c1d15e84fb9f82f789256e74fb87d3d3/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/fef717c2ddbb9646abbebf968574f5db/transformed/coil-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/fef717c2ddbb9646abbebf968574f5db/transformed/coil-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-gif:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/0cbfc10f12ce85e179b921497b3c1994/transformed/coil-gif-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-gif:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/0cbfc10f12ce85e179b921497b3c1994/transformed/coil-gif-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/62cf3c98230b0a87815b6bf73f29fc1e/transformed/coil-base-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/62cf3c98230b0a87815b6bf73f29fc1e/transformed/coil-base-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/3158cbb7a23b70001a299caec2e3b434/transformed/material-1.5.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/3158cbb7a23b70001a299caec2e3b434/transformed/material-1.5.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/teewhydope/.gradle/caches/transforms-3/63ab57fcf3606d2f47243894081d2c7c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/teewhydope/.gradle/caches/transforms-3/63ab57fcf3606d2f47243894081d2c7c/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/b6818e36e82785a361357d608a3a78fe/transformed/appcompat-1.4.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/b6818e36e82785a361357d608a3a78fe/transformed/appcompat-1.4.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/09cd930d1d2234642ab870cdf615b9b2/transformed/ui-util-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/09cd930d1d2234642ab870cdf615b9b2/transformed/ui-util-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/979902e04b8a2acef19fa509e1d5a178/transformed/hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/979902e04b8a2acef19fa509e1d5a178/transformed/hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/teewhydope/.gradle/caches/transforms-3/fe8779562bcf06815076d2a6f5fe2cc7/transformed/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/teewhydope/.gradle/caches/transforms-3/fe8779562bcf06815076d2a6f5fe2cc7/transformed/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.7] /Users/teewhydope/.gradle/caches/transforms-3/58b735754ac6224259b3b3fbb68ed8c8/transformed/leakcanary-object-watcher-android-androidx-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.7] /Users/teewhydope/.gradle/caches/transforms-3/58b735754ac6224259b3b3fbb68ed8c8/transformed/leakcanary-object-watcher-android-androidx-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.7] /Users/teewhydope/.gradle/caches/transforms-3/2857c48a3e120394d47c4da82b869fa4/transformed/leakcanary-object-watcher-android-support-fragments-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.7] /Users/teewhydope/.gradle/caches/transforms-3/2857c48a3e120394d47c4da82b869fa4/transformed/leakcanary-object-watcher-android-support-fragments-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:5:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/teewhydope/.gradle/caches/transforms-3/9667b58996846e8d02c226730945ed82/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/teewhydope/.gradle/caches/transforms-3/9667b58996846e8d02c226730945ed82/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8e8998e7b4c537eb8ba283277c31f865/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8e8998e7b4c537eb8ba283277c31f865/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/teewhydope/.gradle/caches/transforms-3/dc6232984e47a3f4d80effa3ae3fa929/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/teewhydope/.gradle/caches/transforms-3/dc6232984e47a3f4d80effa3ae3fa929/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/0bfe9ed5a3789bba2348c0c43ec33476/transformed/activity-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/0bfe9ed5a3789bba2348c0c43ec33476/transformed/activity-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8deba9150fbf6744ced62d6bff80553f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8deba9150fbf6744ced62d6bff80553f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette-ktx:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/342875245970ad536a391ace3524cf8c/transformed/palette-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette-ktx:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/342875245970ad536a391ace3524cf8c/transformed/palette-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.7] /Users/teewhydope/.gradle/caches/transforms-3/bd6a95ff06c478377e321debfed7ce82/transformed/leakcanary-android-utils-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.7] /Users/teewhydope/.gradle/caches/transforms-3/bd6a95ff06c478377e321debfed7ce82/transformed/leakcanary-android-utils-2.7/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.curtains:curtains:1.0.1] /Users/teewhydope/.gradle/caches/transforms-3/8dd06219f13ad55dd442a1b48b038667/transformed/curtains-1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.curtains:curtains:1.0.1] /Users/teewhydope/.gradle/caches/transforms-3/8dd06219f13ad55dd442a1b48b038667/transformed/curtains-1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/ab1ba9caf192b5f40843c69e323d5e84/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/ab1ba9caf192b5f40843c69e323d5e84/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/fd7ff3acf89be5489828419c53b6ba56/transformed/appcompat-resources-1.4.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/fd7ff3acf89be5489828419c53b6ba56/transformed/appcompat-resources-1.4.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9619b71a1bb3bbf5092fe8b2b5b5e52e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9619b71a1bb3bbf5092fe8b2b5b5e52e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/774e2480435382a376b603a4ff05bdf2/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/774e2480435382a376b603a4ff05bdf2/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/05573380bdaa09c755c5c07068273e07/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/05573380bdaa09c755c5c07068273e07/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/979536add3f53b755c7b5a73b046d23d/transformed/emoji2-views-helper-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/979536add3f53b755c7b5a73b046d23d/transformed/emoji2-views-helper-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/e5d8651ff39c9e879ae1d3cc7780e1a1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/e5d8651ff39c9e879ae1d3cc7780e1a1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8c4cd301bd9e7c07998c0bcca55eae30/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8c4cd301bd9e7c07998c0bcca55eae30/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1daf219cbb312417410880e29e92d300/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1daf219cbb312417410880e29e92d300/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1e1b976f293d360c9923dabf9d828669/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1e1b976f293d360c9923dabf9d828669/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/a6da21234d2aa1cabf75ee05c7119e8c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/a6da21234d2aa1cabf75ee05c7119e8c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1a082ab1a82b0f02618f5dfcbbc448ae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1a082ab1a82b0f02618f5dfcbbc448ae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/7333adf71299f58587dd1909040ee6f1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/7333adf71299f58587dd1909040ee6f1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/teewhydope/.gradle/caches/transforms-3/a337a067e4c17c04e8ed6c7a2eeced1c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/teewhydope/.gradle/caches/transforms-3/a337a067e4c17c04e8ed6c7a2eeced1c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/a7c3652132ad31232af80ad1a1c655d6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/a7c3652132ad31232af80ad1a1c655d6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/7b7415ee1dad65f9c59ada6ba1129625/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/7b7415ee1dad65f9c59ada6ba1129625/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/ced2683b8265d7e066a1d8067d55be46/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/ced2683b8265d7e066a1d8067d55be46/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/76d9cf30089674519912678dc9a99367/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/76d9cf30089674519912678dc9a99367/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/eaee76cf09ff8673cb2944831fccf072/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/eaee76cf09ff8673cb2944831fccf072/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/89b5b57a7350485ac3dfe118354f20d2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/89b5b57a7350485ac3dfe118354f20d2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0-beta01] /Users/teewhydope/.gradle/caches/transforms-3/e50314ade3fe20090cf6e8b7e041599b/transformed/core-1.7.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0-beta01] /Users/teewhydope/.gradle/caches/transforms-3/e50314ade3fe20090cf6e8b7e041599b/transformed/core-1.7.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teewhydope/.gradle/caches/transforms-3/3ad50a88f02f4e96da82927d81da1469/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/teewhydope/.gradle/caches/transforms-3/3ad50a88f02f4e96da82927d81da1469/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/teewhydope/.gradle/caches/transforms-3/4ff3a9d0c3d1f1c506a1a96a5f8fd8c6/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/teewhydope/.gradle/caches/transforms-3/4ff3a9d0c3d1f1c506a1a96a5f8fd8c6/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/0274d49f95cddb05dc3ff47d66fc0d1c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/0274d49f95cddb05dc3ff47d66fc0d1c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/3c98a44dd1c94f2d1ef95f506f903d1a/transformed/lifecycle-runtime-2.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/3c98a44dd1c94f2d1ef95f506f903d1a/transformed/lifecycle-runtime-2.4.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/teewhydope/.gradle/caches/transforms-3/c6dc814d2e3858fa89c4f5032172e5e0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/teewhydope/.gradle/caches/transforms-3/c6dc814d2e3858fa89c4f5032172e5e0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/2ce122ad6df39a8ddd279627d9023308/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/2ce122ad6df39a8ddd279627d9023308/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/bf812ddc5a5aa2ad41aacbfc3b2fb7af/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/bf812ddc5a5aa2ad41aacbfc3b2fb7af/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/bbd8538ed9269cdde6740dd0271de2ec/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/bbd8538ed9269cdde6740dd0271de2ec/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/61124a719016ca376b16605dab767954/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/61124a719016ca376b16605dab767954/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/7288deeab18ee65a7fd649d43b90f155/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/7288deeab18ee65a7fd649d43b90f155/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/teewhydope/.gradle/caches/transforms-3/6efbf441ed8b1b1dd1c9f65d321b9187/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/teewhydope/.gradle/caches/transforms-3/6efbf441ed8b1b1dd1c9f65d321b9187/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8c0f965fc657e954900268ee2938a8c0/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8c0f965fc657e954900268ee2938a8c0/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/0cce5c4b05cf332fd5f8e3c6f04b7b22/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/0cce5c4b05cf332fd5f8e3c6f04b7b22/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:26:13-71
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:24:13-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:30:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:35:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:46:9-63:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:49:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:52:13-71
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:50:13-36
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:53:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:51:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:48:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:55:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:54:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:47:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:56:13-62:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:61:17-86
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:61:27-83
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:65:9-71:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:69:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:67:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:68:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:71:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:70:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:66:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:73:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:73:19-74
+provider#leakcanary.internal.AppWatcherInstaller$MainProcess
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:9:13-79
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:9:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/9db159cfb3aeeaa2c631e588d1681e72/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:32:17-75
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:43:25-88
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:32:17-78
