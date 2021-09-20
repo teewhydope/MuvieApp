@@ -5,9 +5,9 @@
  - Shared: Ktor, SQL Delight
  - iOS Specific Components: SwiftUI
 
+# Make sure to check each branch readme and root assets folder for latest features/additions
+
 <img src="https://github.com/teewhydope/MuvieApp/blob/main/assets/Screenshot_20210919-181136.jpg" width="200" height="400"> <img src="https://github.com/teewhydope/MuvieApp/blob/main/assets/Screenshot_20210919-181101.jpg" width="200" height="400"> <img src="https://github.com/teewhydope/MuvieApp/blob/main/assets/Screenshot_20210919-181159.jpg" width="200" height="400">
-
-
 
 
  
@@ -23,20 +23,24 @@
 1. Kotlin
 2. Clean Architecture
 3. Jetpack Compose
-4. Swift (Proposed)
+4. SwiftUi (Proposed)
 5. Hilt Dependency Injection
 6. Ktor (Networking)
-7. Database Caching with SqlDelight (Proposed) 
-8. Animations
-9. Usecases/Interactors
-10. MVI (Proposed)
-11. Light Theme (Not Necessary But Might Consider Adding in Future Release)
-12. Shimmer Loading Animation (Proposed)
-13. Online & Offline Video Playing with Exo Player2 (Proposed)
-14. Background Services, notification Services and Broadcast receiver (Proposed)
-15. Video and Audio Download (Proposed)
-16. #### etc...
-17. #### Why not make feature request??? :)
+7. Database Caching with SqlDelight (Proposed)
+8. MutableState (Might Change to StateFlow Later, If Neccessary)
+9. Theming for both Android & Ios (Proposed)
+10. Animations(Proposed)
+11. Usecases/Interactors
+12. MVI (Perfect for declarative UI) (Proposed)
+13. Light Theme (Not Necessary But Might Consider Adding in Future Release)
+14. Shimmer Loading Animation (Proposed)
+15. Modularization for code reusablity (Test)
+16. Online & Offline Video Streaming with Exo Player2 (Proposed)
+17. Background Services, notification Services and Broadcast receiver (Proposed)
+18. Video and Audio Download (Proposed)
+19. Unit Testing, Ui Testing, Hilt Testing
+20. #### etc...
+21. #### Why not make feature request??? :)
  
  
 ### Easy Hilt ViewModel Template
@@ -78,6 +82,5 @@ fun $capitalizedFilename() {
 
 
    #### The Repository will be updated weekly with new features added, feel free to explore the project, it's well documented
-
 
 
