@@ -16,8 +16,27 @@
   2. Set your api key in 
      #### shared/src/commonMain/kotlin/com/teewhydope/muvieapp/datasource/network/MovieServiceImpl.kt
      before making any api call, very important
- 
- 
+     
+     
+# Features/RoadMap
+
+1. Kotlin
+2. Clean Architecture
+3. Jetpack Compose
+4. Swift (Proposed)
+5. Hilt Dependency Injection
+6. Ktor (Networking)
+7. Database Caching with SqlDelight (Proposed) 
+8. Animations
+9. Usecases/Interactors
+10. MVI (Proposed)
+11. Light Theme (Not Necessary But Might Consider Adding in Future Release)
+12. Shimmer Loading Animation (Proposed)
+13. Online & Offline Video Playing with Exo Player2 (Proposed)
+14. Background Services, notification Services and Broadcast receiver (Proposed)
+15. Video and Audio Download (Proposed)
+16. #### etc...
+17. #### Why not make feature request??? :)
  
  
 ### Easy Hilt ViewModel Template
