@@ -69,7 +69,6 @@ dependencies {
     kapt(Hilt.hiltCompiler)
 
     implementation(ImageLoaders.coil)
-    implementation(ImageLoaders.landscapistCoil)
 
     implementation(Ktor.android)
 

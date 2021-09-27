@@ -462,8 +462,8 @@ public final class DaggerBaseApplication_HiltComponents_SingletonC extends BaseA
     }
 
     @Override
-    public void injectMainActivity(MainActivity mainActivity) {
-      injectMainActivity2(mainActivity);
+    public void injectMainActivity(MainActivity arg0) {
+      injectMainActivity2(arg0);
     }
 
     @Override
@@ -525,7 +525,7 @@ public final class DaggerBaseApplication_HiltComponents_SingletonC extends BaseA
     }
 
     private MovieListViewModel movieListViewModel() {
-      return new MovieListViewModel(savedStateHandle, singletonC.provideSearchMoviesProvider.get());
+      return new MovieListViewModel(singletonC.provideSearchMoviesProvider.get());
     }
 
     @SuppressWarnings("unchecked")

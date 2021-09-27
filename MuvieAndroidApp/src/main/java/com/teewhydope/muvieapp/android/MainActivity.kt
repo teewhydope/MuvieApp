@@ -1,16 +1,20 @@
 package com.teewhydope.muvieapp.android
 
 import android.os.Bundle
+import android.view.ViewConfiguration
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.animation.ExperimentalAnimationApi
+import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.BoxWithConstraints
+import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.material.LocalContentColor
 import androidx.compose.material.MaterialTheme
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.core.view.WindowCompat
 import coil.ImageLoader
 import coil.annotation.ExperimentalCoilApi
+import com.google.accompanist.navigation.animation.rememberAnimatedNavController
 import com.google.accompanist.pager.ExperimentalPagerApi
 import com.teewhydope.muvieapp.android.presentation.navigation.Navigation
 import com.teewhydope.muvieapp.android.presentation.theme.MuvieAppTheme
@@ -25,6 +29,9 @@ import javax.inject.Inject
 //An android app must have at least one Activity, to properly initialize necessary variables
 //The main activity is the android entry point
 
+
+@ExperimentalFoundationApi
+@ExperimentalMaterialApi
 @InternalCoroutinesApi
 @ExperimentalCoilApi
 @ExperimentalPagerApi
@@ -49,38 +56,45 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         /**
-         Use WindowCompat.setDecorFitsSystemWindows(window, false)
+        Use WindowCompat.setDecorFitsSystemWindows(window, false)
         to lay out your app behind the system bars
 
-         Then head to your values folder, open colors.xml and create
-         <color name="transparent">#00000000</color>
+        Then head to your values folder, open colors.xml and create
+        <color name="transparent">#00000000</color>
 
-         Go to themes open themes.xml and themes.xml(night) and place
-         this code in the two files, in one of the style tags that has colors in it.
+        Go to themes open themes.xml and themes.xml(night) and place
+        this code in the two files, in one of the style tags that has colors in it.
 
-         <item name="android:statusBarColor">@android:color/transparent</item>
-         <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
 
-         Go to Manifest.xml and place
-         android:theme="@style/Theme.<YOUR_APP_NAME>" in the ManActivity Section
+        Go to Manifest.xml and place
+        android:theme="@style/Theme.<YOUR_APP_NAME>" in the ManActivity Section
          **/
+
         WindowCompat.setDecorFitsSystemWindows(window, false)
+        val hasSoftKey: Boolean = ViewConfiguration.get(this).hasPermanentMenuKey()
 
         setContent {
             BoxWithConstraints {
                 MuvieAppTheme {
+                    val navController = rememberAnimatedNavController()
+
                     //This is used to change the global text color
                     CompositionLocalProvider(
                         LocalContentColor.provides(
                             MaterialTheme.colors.primary
                         )
                     ) {
+
                         //Initial Composable Entry
                         //passing arguments to the class constructor
                         Navigation(
+                            navController = navController,
                             width = constraints.maxWidth / 2,
                             imageLoader = imageLoader,
-                            application = application
+                            application = application,
+                            hasSoftKey = hasSoftKey
                         )
                     }
                 }
@@ -89,3 +103,11 @@ class MainActivity : ComponentActivity() {
 
     }
 }
+
+
+
+
+
+
+
+
