@@ -82,16 +82,16 @@ import hilt_aggregated_deps._dagger_hilt_android_internal_modules_HiltWrapper_Ac
         _dagger_hilt_android_internal_modules_ApplicationContextModule.class,
         _dagger_hilt_android_internal_modules_HiltWrapper_ActivityModule.class,
         _com_teewhydope_muvieapp_android_presentation_movie_detail_MovieDetailViewModel_HiltModules_BindsModule.class,
+        _com_teewhydope_muvieapp_android_MainActivity_GeneratedInjector.class,
+        _com_teewhydope_muvieapp_android_BaseApplication_GeneratedInjector.class,
         _com_teewhydope_muvieapp_android_di_DummyModule.class,
         _com_teewhydope_muvieapp_android_presentation_movie_list_MovieListViewModel_HiltModules_KeyModule.class,
         _com_teewhydope_muvieapp_android_di_NetworkModule.class,
         _com_teewhydope_muvieapp_android_presentation_movie_list_MovieListViewModel_HiltModules_BindsModule.class,
+        _com_teewhydope_muvieapp_android_di_AppModule.class,
         _com_teewhydope_muvieapp_android_di_InteractorsModule.class,
         _com_teewhydope_muvieapp_android_presentation_movie_detail_MovieDetailViewModel_HiltModules_KeyModule.class,
-        _com_teewhydope_muvieapp_android_di_CoilModule.class,
-        _com_teewhydope_muvieapp_android_di_AppModule.class,
-        _com_teewhydope_muvieapp_android_MainActivity_GeneratedInjector.class,
-        _com_teewhydope_muvieapp_android_BaseApplication_GeneratedInjector.class
+        _com_teewhydope_muvieapp_android_di_CoilModule.class
     }
 )
 class BaseApplication_ComponentTreeDeps {

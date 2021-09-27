@@ -42,7 +42,7 @@ fun MovieCategoryItem(
                 Card(
                     modifier = if (title == "TOP RATED MOVIES") Modifier
                         .height(320.dp)
-                        .width(350.dp)
+                        .width(200.dp)
                         .padding(
                             end = 10.dp,
                             top = 10.dp,

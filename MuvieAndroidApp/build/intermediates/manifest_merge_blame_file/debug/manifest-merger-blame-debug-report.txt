@@ -25,7 +25,7 @@
 15-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:26:22-74
 16
 17    <application
-17-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:8:5-22:19
+17-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:8:5-24:19
 18        android:name="com.teewhydope.muvieapp.android.BaseApplication"
 18-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:9:9-40
 19        android:allowBackup="false"
@@ -39,191 +39,195 @@
 24        android:theme="@style/AppTheme" >
 24-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:12:9-40
 25        <activity
-25-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:13:9-21:20
+25-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:13:9-23:20
 26            android:name="com.teewhydope.muvieapp.android.MainActivity"
 26-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:14:13-41
-27            android:exported="true"
-27-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:16:13-36
-28            android:theme="@style/Theme.MuvieApp" >
-28-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:15:13-50
-29            <intent-filter>
-29-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:17:13-20:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:17-69
-30-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:17-77
-32-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity
-35-->[androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:25:9-27:39
-36            android:name="androidx.compose.ui.tooling.PreviewActivity"
-36-->[androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:26:13-71
-37            android:exported="true" />
-37-->[androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:27:13-36
-38
-39        <service
-39-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:23:9-25:40
-40            android:name="leakcanary.internal.HeapAnalyzerService"
-40-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:24:13-67
-41            android:exported="false" />
-41-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:25:13-37
-42
-43        <provider
-43-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:29:9-37:20
-44            android:name="leakcanary.internal.LeakCanaryFileProvider"
-44-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:30:13-70
-45            android:authorities="com.squareup.leakcanary.fileprovider.com.teewhydope.muvieapp.android"
-45-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:31:13-88
-46            android:exported="false"
-46-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:32:13-37
-47            android:grantUriPermissions="true" >
-47-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:33:13-47
-48            <meta-data
-48-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:34:13-36:66
-49                android:name="android.support.FILE_PROVIDER_PATHS"
-49-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:35:17-67
-50                android:resource="@xml/leak_canary_file_paths" />
-50-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:36:17-63
-51        </provider>
-52
-53        <activity
-53-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:39:9-44:66
-54            android:name="leakcanary.internal.activity.LeakActivity"
-54-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:40:13-69
-55            android:icon="@mipmap/leak_canary_icon"
-55-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:41:13-52
-56            android:label="@string/leak_canary_display_activity_label"
-56-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:42:13-71
-57            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
-57-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:43:13-76
-58            android:theme="@style/leak_canary_LeakCanary.Base" />
-58-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:44:13-63
-59
-60        <activity-alias
-60-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:46:9-63:26
-61            android:name="leakcanary.internal.activity.LeakLauncherActivity"
-61-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:47:13-77
-62            android:banner="@drawable/leak_canary_tv_icon"
-62-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:48:13-59
-63            android:enabled="@bool/leak_canary_add_launcher_icon"
-63-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:49:13-66
-64            android:exported="true"
-64-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:50:13-36
-65            android:icon="@mipmap/leak_canary_icon"
-65-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:51:13-52
-66            android:label="@string/leak_canary_display_activity_label"
-66-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:52:13-71
-67            android:targetActivity="leakcanary.internal.activity.LeakActivity"
-67-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:53:13-79
-68            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
-68-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:54:13-76
-69            android:theme="@style/leak_canary_LeakCanary.Base" >
-69-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:55:13-63
-70            <intent-filter>
-70-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:56:13-62:29
-71                <action android:name="android.intent.action.MAIN" />
-71-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:17-69
-71-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:25-66
-72
-73                <category android:name="android.intent.category.LAUNCHER" />
-73-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:17-77
-73-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:27-74
-74                <!-- Android TV launcher intent -->
-75                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-75-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:61:17-86
-75-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:61:27-83
-76            </intent-filter>
-77        </activity-alias>
-78
-79        <activity
-79-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:65:9-71:68
-80            android:name="leakcanary.internal.RequestStoragePermissionActivity"
-80-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:66:13-80
-81            android:excludeFromRecents="true"
-81-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:67:13-46
-82            android:icon="@mipmap/leak_canary_icon"
-82-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:68:13-52
-83            android:label="@string/leak_canary_storage_permission_activity_label"
-83-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:69:13-82
-84            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
-84-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:70:13-76
-85            android:theme="@style/leak_canary_Theme.Transparent" />
-85-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:71:13-65
-86
-87        <receiver android:name="leakcanary.internal.NotificationReceiver" />
-87-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:73:9-77
-87-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:73:19-74
+27            android:configChanges="keyboardHidden|orientation"
+27-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:17:13-63
+28            android:exported="true"
+28-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:13-36
+29            android:screenOrientation="nosensor"
+29-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:16:13-49
+30            android:theme="@style/Theme.MuvieApp" >
+30-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:15:13-50
+31            <intent-filter>
+31-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:13-22:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:20:17-69
+32-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:20:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:21:17-77
+34-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:21:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->[androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:25:9-27:39
+38            android:name="androidx.compose.ui.tooling.PreviewActivity"
+38-->[androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:26:13-71
+39            android:exported="true" />
+39-->[androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:27:13-36
+40
+41        <service
+41-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:23:9-25:40
+42            android:name="leakcanary.internal.HeapAnalyzerService"
+42-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:24:13-67
+43            android:exported="false" />
+43-->[com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:25:13-37
+44
+45        <provider
+45-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:29:9-37:20
+46            android:name="leakcanary.internal.LeakCanaryFileProvider"
+46-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:30:13-70
+47            android:authorities="com.squareup.leakcanary.fileprovider.com.teewhydope.muvieapp.android"
+47-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:31:13-88
+48            android:exported="false"
+48-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:32:13-37
+49            android:grantUriPermissions="true" >
+49-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:33:13-47
+50            <meta-data
+50-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:34:13-36:66
+51                android:name="android.support.FILE_PROVIDER_PATHS"
+51-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:35:17-67
+52                android:resource="@xml/leak_canary_file_paths" />
+52-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:36:17-63
+53        </provider>
+54
+55        <activity
+55-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:39:9-44:66
+56            android:name="leakcanary.internal.activity.LeakActivity"
+56-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:40:13-69
+57            android:icon="@mipmap/leak_canary_icon"
+57-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:41:13-52
+58            android:label="@string/leak_canary_display_activity_label"
+58-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:42:13-71
+59            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
+59-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:43:13-76
+60            android:theme="@style/leak_canary_LeakCanary.Base" />
+60-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:44:13-63
+61
+62        <activity-alias
+62-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:46:9-63:26
+63            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+63-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:47:13-77
+64            android:banner="@drawable/leak_canary_tv_icon"
+64-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:48:13-59
+65            android:enabled="@bool/leak_canary_add_launcher_icon"
+65-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:49:13-66
+66            android:exported="true"
+66-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:50:13-36
+67            android:icon="@mipmap/leak_canary_icon"
+67-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:51:13-52
+68            android:label="@string/leak_canary_display_activity_label"
+68-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:52:13-71
+69            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+69-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:53:13-79
+70            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
+70-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:54:13-76
+71            android:theme="@style/leak_canary_LeakCanary.Base" >
+71-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:55:13-63
+72            <intent-filter>
+72-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:56:13-62:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:20:17-69
+73-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:20:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:21:17-77
+75-->/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:21:27-74
+76                <!-- Android TV launcher intent -->
+77                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+77-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:61:17-86
+77-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:61:27-83
+78            </intent-filter>
+79        </activity-alias>
+80
+81        <activity
+81-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:65:9-71:68
+82            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+82-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:66:13-80
+83            android:excludeFromRecents="true"
+83-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:67:13-46
+84            android:icon="@mipmap/leak_canary_icon"
+84-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:68:13-52
+85            android:label="@string/leak_canary_storage_permission_activity_label"
+85-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:69:13-82
+86            android:taskAffinity="com.squareup.leakcanary.com.teewhydope.muvieapp.android"
+86-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:70:13-76
+87            android:theme="@style/leak_canary_Theme.Transparent" />
+87-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:71:13-65
 88
-89        <provider
-89-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:8:9-12:40
-90            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
-90-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:9:13-79
-91            android:authorities="com.teewhydope.muvieapp.android.leakcanary-installer"
-91-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:10:13-72
-92            android:enabled="@bool/leak_canary_watcher_auto_install"
-92-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:11:13-69
-93            android:exported="false" />
-93-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:12:13-37
-94        <provider
-94-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:8:9-12:40
-95            android:name="leakcanary.internal.PlumberInstaller"
-95-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:9:13-64
-96            android:authorities="com.teewhydope.muvieapp.android.plumber-installer"
-96-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:10:13-69
-97            android:enabled="@bool/leak_canary_plumber_auto_install"
-97-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:11:13-69
-98            android:exported="false" />
-98-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:12:13-37
-99        <provider
-99-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:26:9-34:20
-100            android:name="androidx.startup.InitializationProvider"
-100-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:27:13-67
-101            android:authorities="com.teewhydope.muvieapp.android.androidx-startup"
-101-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:28:13-68
-102            android:exported="false" >
-102-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:29:13-37
-103            <meta-data
-103-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:31:13-33:52
-104                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-104-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:32:17-75
-105                android:value="androidx.startup" />
-105-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:33:17-49
-106            <meta-data
-106-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:31:13-33:52
-107                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-107-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:32:17-85
-108                android:value="androidx.startup" />
-108-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:33:17-49
-109            <meta-data
-109-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:31:13-33:52
-110                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-110-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:32:17-78
-111                android:value="androidx.startup" />
-111-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:33:17-49
-112        </provider>
-113
-114        <receiver
-114-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:36:9-45:20
-115            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-115-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:37:13-76
-116            android:directBootAware="false"
-116-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:38:13-44
-117            android:enabled="true"
-117-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:39:13-35
-118            android:exported="true"
-118-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:40:13-36
-119            android:permission="android.permission.DUMP" >
-119-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:41:13-57
-120            <intent-filter>
-120-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:42:13-44:29
-121                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-121-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:43:17-91
-121-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:43:25-88
-122            </intent-filter>
-123        </receiver>
-124    </application>
-125
-126</manifest>
+89        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+89-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:73:9-77
+89-->[com.squareup.leakcanary:leakcanary-android-core:2.7] /Users/teewhydope/.gradle/caches/transforms-3/d6b9ffa1a7ecba33cc49df1f3f082a31/transformed/leakcanary-android-core-2.7/AndroidManifest.xml:73:19-74
+90
+91        <provider
+91-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:8:9-12:40
+92            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
+92-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:9:13-79
+93            android:authorities="com.teewhydope.muvieapp.android.leakcanary-installer"
+93-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:10:13-72
+94            android:enabled="@bool/leak_canary_watcher_auto_install"
+94-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:11:13-69
+95            android:exported="false" />
+95-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/9f2787404a4e48ac9c4d7e3b1042927e/transformed/leakcanary-object-watcher-android-2.7/AndroidManifest.xml:12:13-37
+96        <provider
+96-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:8:9-12:40
+97            android:name="leakcanary.internal.PlumberInstaller"
+97-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:9:13-64
+98            android:authorities="com.teewhydope.muvieapp.android.plumber-installer"
+98-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:10:13-69
+99            android:enabled="@bool/leak_canary_plumber_auto_install"
+99-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:11:13-69
+100            android:exported="false" />
+100-->[com.squareup.leakcanary:plumber-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/30385b5f007ff1d034ea8dc4a5375791/transformed/plumber-android-2.7/AndroidManifest.xml:12:13-37
+101        <provider
+101-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:26:9-34:20
+102            android:name="androidx.startup.InitializationProvider"
+102-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:27:13-67
+103            android:authorities="com.teewhydope.muvieapp.android.androidx-startup"
+103-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:28:13-68
+104            android:exported="false" >
+104-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:29:13-37
+105            <meta-data
+105-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:31:13-33:52
+106                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+106-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:32:17-75
+107                android:value="androidx.startup" />
+107-->[androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:33:17-49
+108            <meta-data
+108-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:31:13-33:52
+109                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+109-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:32:17-85
+110                android:value="androidx.startup" />
+110-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:33:17-49
+111            <meta-data
+111-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:31:13-33:52
+112                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+112-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:32:17-78
+113                android:value="androidx.startup" />
+113-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/fe4553bfbf0edb1ba950a06651d39f51/transformed/lifecycle-process-2.4.0-alpha02/AndroidManifest.xml:33:17-49
+114        </provider>
+115
+116        <receiver
+116-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:36:9-45:20
+117            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+117-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:37:13-76
+118            android:directBootAware="false"
+118-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:38:13-44
+119            android:enabled="true"
+119-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:39:13-35
+120            android:exported="true"
+120-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:40:13-36
+121            android:permission="android.permission.DUMP" >
+121-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:41:13-57
+122            <intent-filter>
+122-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:42:13-44:29
+123                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+123-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:43:17-91
+123-->[androidx.profileinstaller:profileinstaller:1.1.0-alpha05] /Users/teewhydope/.gradle/caches/transforms-3/c743a89ee26764229d0c53674d84e5c5/transformed/profileinstaller-1.1.0-alpha05/AndroidManifest.xml:43:25-88
+124            </intent-filter>
+125        </receiver>
+126    </application>
+127
+128</manifest>

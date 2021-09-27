@@ -2,9 +2,12 @@ package com.teewhydope.muvieapp.android.presentation.movie_list.components
 
 
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.blur
@@ -30,36 +33,43 @@ fun MovieBackdrop(
     imageLoader: ImageLoader,
 ) {
 //Backdrop Image
-
-    Image(
-        painter = rememberImagePainter(
-            imageLoader = imageLoader,
-            data = "${IMAGE_BASE_URL}$backdropUrl",
-            onExecute = ImagePainter.ExecuteCallback { _, _ -> true },
-            builder = {
-                R.drawable.black_background
-                crossfade(true)
-            }
-        ),
-        contentDescription = null,
-        contentScale = ContentScale.Crop,
-        modifier = Modifier
-            .fillMaxWidth()
-            .fillMaxHeight()
-            .drawWithCache {
-                val gradient = Brush.verticalGradient(
-                    colors = listOf(Color.Transparent, Color.Black),
-                    startY = size.height / 3,
-                    endY = size.height
-                )
-                //Draw a dark gradient color on the bottom of the backdrop
-                onDrawWithContent {
-                    drawContent()
-                    drawRect(gradient, blendMode = BlendMode.Multiply)
+    Box {
+        Image(
+            painter = rememberImagePainter(
+                imageLoader = imageLoader,
+                data = "${IMAGE_BASE_URL}$backdropUrl",
+                onExecute = ImagePainter.ExecuteCallback { _, _ -> true },
+                builder = {
+                    R.drawable.black_background
+                    crossfade(true)
                 }
-            }
-            .blur(30.dp) //this blur implementation is only available for android 12
-            //and higher, future release will implement an alternative
-            .clip(RoundedCornerShape(15.dp)),
-    )
+            ),
+            contentDescription = null,
+            contentScale = ContentScale.Crop,
+            modifier = Modifier
+                .fillMaxWidth()
+                .fillMaxHeight()
+                .drawWithCache {
+                    val gradient = Brush.verticalGradient(
+                        colors = listOf(Color.Transparent, Color.Black),
+                        startY = size.height / 3,
+                        endY = size.height
+                    )
+                    //Draw a dark gradient color on the bottom of the backdrop
+                    onDrawWithContent {
+                        drawContent()
+                        drawRect(gradient, blendMode = BlendMode.Multiply)
+                    }
+                }
+                .blur(30.dp) //this blur implementation is only available for android 12
+                //and higher, future release will implement an alternative
+                .clip(RoundedCornerShape(15.dp)),
+        )
+        Surface(
+            color = Color.Black.copy(alpha = 0.6f),
+            modifier = Modifier.fillMaxSize()
+        ){
+            //....
+        }
+    }
 }

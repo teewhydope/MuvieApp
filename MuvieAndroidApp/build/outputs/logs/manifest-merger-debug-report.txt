@@ -1,17 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [:shared] /Users/teewhydope/AndroidStudioProjects/MuvieApp/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.accompanist:accompanist-navigation-animation:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/4faa3688caf1620ef0b179e66a607848/transformed/accompanist-navigation-animation-0.18.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.accompanist:accompanist-pager:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8e58801f4ec04317caf4161c242ef22c/transformed/accompanist-pager-0.18.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.accompanist:accompanist-placeholder:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/8c42f6c193f32530a78a793edaf2bb61/transformed/accompanist-placeholder-0.18.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/e60c2a667c58cdd8f42067b0e7886337/transformed/accompanist-systemuicontroller-0.18.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /Users/teewhydope/.gradle/caches/transforms-3/ce165b13289ed8f91ce4ce8bfe6e8263/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.skydoves:landscapist-coil:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/b2e79c42e400fcf8df0ab76a3e777087/transformed/landscapist-coil-1.3.6/AndroidManifest.xml:2:1-9:12
-MERGED from [com.github.skydoves:landscapist:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/a7c5f06ee0eb0f990c365f9546b9c681/transformed/landscapist-1.3.6/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.compose.runtime:runtime-livedata:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/37ebb7194a962b98500c6bc95587081a/transformed/runtime-livedata-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.compose.material:material:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/a20f57fee3931e84febff72840f183ae/transformed/material-1.1.0-alpha04/AndroidManifest.xml:17:1-24:12
@@ -45,7 +43,6 @@ MERGED from [androidx.navigation:navigation-common:2.4.0-alpha07] /Users/teewhyd
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/42c800d7fe0b3a4c1eeed8230cc37058/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/c1d15e84fb9f82f789256e74fb87d3d3/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [io.coil-kt:coil:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/fef717c2ddbb9646abbebf968574f5db/transformed/coil-1.3.2/AndroidManifest.xml:2:1-9:12
-MERGED from [io.coil-kt:coil-gif:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/0cbfc10f12ce85e179b921497b3c1994/transformed/coil-gif-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [io.coil-kt:coil-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/62cf3c98230b0a87815b6bf73f29fc1e/transformed/coil-base-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.material:material:1.5.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/3158cbb7a23b70001a299caec2e3b434/transformed/material-1.5.0-alpha03/AndroidManifest.xml:17:1-24:12
@@ -64,7 +61,6 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/teewhydope/.gradle/cac
 MERGED from [androidx.fragment:fragment:1.3.4] /Users/teewhydope/.gradle/caches/transforms-3/dc6232984e47a3f4d80effa3ae3fa929/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/0bfe9ed5a3789bba2348c0c43ec33476/transformed/activity-1.4.0-alpha02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8deba9150fbf6744ced62d6bff80553f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.palette:palette-ktx:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/342875245970ad536a391ace3524cf8c/transformed/palette-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.7] /Users/teewhydope/.gradle/caches/transforms-3/bd6a95ff06c478377e321debfed7ce82/transformed/leakcanary-android-utils-2.7/AndroidManifest.xml:2:1-7:12
 MERGED from [com.squareup.curtains:curtains:1.0.1] /Users/teewhydope/.gradle/caches/transforms-3/8dd06219f13ad55dd442a1b48b038667/transformed/curtains-1.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/ab1ba9caf192b5f40843c69e323d5e84/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -75,7 +71,6 @@ MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/teewhydope/.gradle/cac
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/979536add3f53b755c7b5a73b046d23d/transformed/emoji2-views-helper-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/e5d8651ff39c9e879ae1d3cc7780e1a1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.palette:palette:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8c4cd301bd9e7c07998c0bcca55eae30/transformed/palette-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1daf219cbb312417410880e29e92d300/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1e1b976f293d360c9923dabf9d828669/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/a6da21234d2aa1cabf75ee05c7119e8c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
@@ -105,22 +100,22 @@ MERGED from [androidx.print:print:1.0.0] /Users/teewhydope/.gradle/caches/transf
 MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/teewhydope/.gradle/caches/transforms-3/6efbf441ed8b1b1dd1c9f65d321b9187/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8c0f965fc657e954900268ee2938a8c0/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/teewhydope/.gradle/caches/transforms-3/0cce5c4b05cf332fd5f8e3c6f04b7b22/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:16:1-19:12
-INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
 		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:4:5-51
 	android:versionCode
 		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
-		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:2:11-69
@@ -129,7 +124,7 @@ ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/
 	android:name
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:8:5-22:19
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:8:5-24:19
 MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:24:5-28:19
 MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:24:5-28:19
 MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:22:5-26:19
@@ -167,23 +162,27 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/teewhydope/.gradle/c
 	android:name
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:9:9-40
 activity#com.teewhydope.muvieapp.android.MainActivity
-ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:13:9-21:20
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:13:9-23:20
+	android:screenOrientation
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:16:13-49
 	android:exported
-		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:16:13-36
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:13-36
+	android:configChanges
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:17:13-63
 	android:theme
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:15:13-50
 	android:name
 		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:17:13-20:29
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/AndroidManifest.xml
@@ -200,10 +199,6 @@ MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.18.0] /User
 MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.18.0] /Users/teewhydope/.gradle/caches/transforms-3/e60c2a667c58cdd8f42067b0e7886337/transformed/accompanist-systemuicontroller-0.18.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /Users/teewhydope/.gradle/caches/transforms-3/ce165b13289ed8f91ce4ce8bfe6e8263/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout-compose:1.0.0-beta02] /Users/teewhydope/.gradle/caches/transforms-3/ce165b13289ed8f91ce4ce8bfe6e8263/transformed/constraintlayout-compose-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.skydoves:landscapist-coil:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/b2e79c42e400fcf8df0ab76a3e777087/transformed/landscapist-coil-1.3.6/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.skydoves:landscapist-coil:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/b2e79c42e400fcf8df0ab76a3e777087/transformed/landscapist-coil-1.3.6/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.skydoves:landscapist:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/a7c5f06ee0eb0f990c365f9546b9c681/transformed/landscapist-1.3.6/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.skydoves:landscapist:1.3.6] /Users/teewhydope/.gradle/caches/transforms-3/a7c5f06ee0eb0f990c365f9546b9c681/transformed/landscapist-1.3.6/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.compose.runtime:runtime-livedata:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/37ebb7194a962b98500c6bc95587081a/transformed/runtime-livedata-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.runtime:runtime-livedata:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/37ebb7194a962b98500c6bc95587081a/transformed/runtime-livedata-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.compose.ui:ui-tooling:1.1.0-alpha04] /Users/teewhydope/.gradle/caches/transforms-3/23db25650d306581ed4a3e2c998a67b3/transformed/ui-tooling-1.1.0-alpha04/AndroidManifest.xml:20:5-22:41
@@ -270,8 +265,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/teewhydope
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/teewhydope/.gradle/caches/transforms-3/c1d15e84fb9f82f789256e74fb87d3d3/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [io.coil-kt:coil:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/fef717c2ddbb9646abbebf968574f5db/transformed/coil-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt:coil:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/fef717c2ddbb9646abbebf968574f5db/transformed/coil-1.3.2/AndroidManifest.xml:5:5-7:41
-MERGED from [io.coil-kt:coil-gif:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/0cbfc10f12ce85e179b921497b3c1994/transformed/coil-gif-1.3.2/AndroidManifest.xml:5:5-7:41
-MERGED from [io.coil-kt:coil-gif:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/0cbfc10f12ce85e179b921497b3c1994/transformed/coil-gif-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt:coil-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/62cf3c98230b0a87815b6bf73f29fc1e/transformed/coil-base-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt:coil-base:1.3.2] /Users/teewhydope/.gradle/caches/transforms-3/62cf3c98230b0a87815b6bf73f29fc1e/transformed/coil-base-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.squareup.leakcanary:leakcanary-android:2.7] /Users/teewhydope/.gradle/caches/transforms-3/a2f8460b1999b63484fe126ad2faa24c/transformed/leakcanary-android-2.7/AndroidManifest.xml:20:5-44
@@ -308,8 +301,6 @@ MERGED from [androidx.activity:activity:1.4.0-alpha02] /Users/teewhydope/.gradle
 MERGED from [androidx.activity:activity:1.4.0-alpha02] /Users/teewhydope/.gradle/caches/transforms-3/0bfe9ed5a3789bba2348c0c43ec33476/transformed/activity-1.4.0-alpha02/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8deba9150fbf6744ced62d6bff80553f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/teewhydope/.gradle/caches/transforms-3/8deba9150fbf6744ced62d6bff80553f/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.palette:palette-ktx:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/342875245970ad536a391ace3524cf8c/transformed/palette-ktx-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.palette:palette-ktx:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/342875245970ad536a391ace3524cf8c/transformed/palette-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.7] /Users/teewhydope/.gradle/caches/transforms-3/bd6a95ff06c478377e321debfed7ce82/transformed/leakcanary-android-utils-2.7/AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.leakcanary:leakcanary-android-utils:2.7] /Users/teewhydope/.gradle/caches/transforms-3/bd6a95ff06c478377e321debfed7ce82/transformed/leakcanary-android-utils-2.7/AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.curtains:curtains:1.0.1] /Users/teewhydope/.gradle/caches/transforms-3/8dd06219f13ad55dd442a1b48b038667/transformed/curtains-1.0.1/AndroidManifest.xml:5:5-7:41
@@ -330,8 +321,6 @@ MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/cac
 MERGED from [androidx.emoji2:emoji2:1.0.0-alpha03] /Users/teewhydope/.gradle/caches/transforms-3/c8f8f70b896fb2a33abf57cfa13460f6/transformed/emoji2-1.0.0-alpha03/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/e5d8651ff39c9e879ae1d3cc7780e1a1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/e5d8651ff39c9e879ae1d3cc7780e1a1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.palette:palette:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8c4cd301bd9e7c07998c0bcca55eae30/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.palette:palette:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/8c4cd301bd9e7c07998c0bcca55eae30/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1daf219cbb312417410880e29e92d300/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1daf219cbb312417410880e29e92d300/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/teewhydope/.gradle/caches/transforms-3/1e1b976f293d360c9923dabf9d828669/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44

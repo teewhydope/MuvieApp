@@ -1,10 +1,78 @@
 [
     {
-        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_error_image.png.flat",
-        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/error_image.png"
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-xxhdpi_movie_db_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-xxhdpi/movie_db_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-xxxhdpi_movie_db_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-xxxhdpi/movie_db_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-hdpi_netflix_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-hdpi/netflix_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-ldpi_netflix_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-ldpi/netflix_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-xxhdpi_netflix_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-xxhdpi/netflix_icon.png"
     },
     {
         "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_black_background.png.flat",
         "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/black_background.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-mdpi_movie_db_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-mdpi/movie_db_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-mdpi_netflix_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-mdpi/netflix_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-anydpi-v24_movie_db_icon.xml.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-anydpi-v24/movie_db_icon.xml"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_error_image.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/error_image.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-anydpi-v24_netflix_icon.xml.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-anydpi-v24/netflix_icon.xml"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_arrow_down_circle.xml.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/arrow_down_circle.xml"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-xhdpi_netflix_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-xhdpi/netflix_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_coming_soon.xml.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/coming_soon.xml"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-xhdpi_movie_db_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-xhdpi/movie_db_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-xxxhdpi_netflix_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-xxxhdpi/netflix_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-hdpi_movie_db_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-hdpi/movie_db_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable-ldpi_movie_db_icon.png.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/generated/res/pngs/debug/drawable-ldpi/movie_db_icon.png"
+    },
+    {
+        "merged": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/build/intermediates/merged_res/debug/drawable_home.xml.flat",
+        "source": "/Users/teewhydope/AndroidStudioProjects/MuvieApp/MuvieAndroidApp/src/main/res/drawable/home.xml"
     }
 ]
