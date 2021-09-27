@@ -32,11 +32,9 @@ class MovieServiceImpl(
 
     //Generate Api Token from https://developers.themoviedb.org
     companion object {
-        const val V3TOKEN = "028bbd9705c5cc69856cd9c39b322925" //Not used but might be useful in the future
+        const val V3TOKEN = "<-YOUR-V3-API-KEY->" //Not used but might be useful in the future
 
-        const val V4TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMjhiYmQ5NzA1YzVjYzY5ODU2Y2Q5YzM5YjMyMjkyNSIs" +
-                "InN1YiI6IjYxM2U1OWVmNmFmOWRkMDA0Mzc3YTRmMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ." +
-                "8wYlWsM0BlpT9qxoQrP23OPj851ETEsPw2S1Pp25feo"
+        const val V4TOKEN = "<-YOUR-V4-BEARER-TOKEN->"
 
         const val BASE_URL = "https://api.themoviedb.org/3"
 
