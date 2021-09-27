@@ -7,7 +7,10 @@
 
 # Make sure to check each branch readme and root assets folder for latest features/additions
 
-<img src="https://github.com/teewhydope/MuvieApp/blob/main/assets/Screenshot_20210919-181136.jpg" width="200" height="400"> <img src="https://github.com/teewhydope/MuvieApp/blob/main/assets/Screenshot_20210919-181101.jpg" width="200" height="400"> <img src="https://github.com/teewhydope/MuvieApp/blob/main/assets/Screenshot_20210919-181159.jpg" width="200" height="400">
+<img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-111550.jpg" width="200" height="400"> <img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-123802.jpg" width="200" height="400"> 
+<img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-123555.jpg" width="200" height="400">
+<img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-123543.jpg" width="200" height="400">
+
 
 
  
@@ -81,6 +84,6 @@ fun $capitalizedFilename() {
 }
 
 
-   #### The Repository will be updated weekly with new features added, feel free to explore the project, it's well documented
+   #### The Repository will be updated weekly with new features added
 
 
