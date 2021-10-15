@@ -5,8 +5,6 @@
  - Shared: Ktor, SQL Delight
  - iOS Specific Components: SwiftUI
 
-# Make sure to check each branch readme and root assets folder for latest features/additions
-
 <img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-111550.jpg" width="200" height="400"> <img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-123802.jpg" width="200" height="400"> 
 <img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-123555.jpg" width="200" height="400">
 <img src="https://github.com/teewhydope/MuvieApp/blob/2-netflix-option/assets/Screenshot_20210927-123543.jpg" width="200" height="400">
